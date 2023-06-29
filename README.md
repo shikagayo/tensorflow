@@ -7,3 +7,4 @@ There's some of my projects from the course 'Machine learning'. Some projects we
 - [x] Working with sessions
 - [x] Addition, minimum and maximum
 - [x] Constants
+### I'm here
