@@ -2,3 +2,8 @@
 
 # Tensorflow projects
 There's some of my projects from the course 'Machine learning'. Some projects were made by 2-3 weeks
+- [x] Image Classificator
+- [x] Text Classificator
+- [x] Working with sessions
+- [x] Addition, minimum and maximum
+- [x] Constants
